@@ -19,8 +19,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mercy-thaddeus-44ab40189#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mercy-thaddeus-44ab40189#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/mercythaddeus_gh-light-mode-only) 
-[![website](./img/instagram-dark.svg)](https://instagram.com/mercythaddeus_gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/mercythaddeus_#gh-light-mode-only) 
+[![website](./img/instagram-dark.svg)](https://instagram.com/mercythaddeus_#gh-dark-mode-only)
 
 ### Languages and Tools:
 
