@@ -10,7 +10,7 @@
 <rect x="0.5" y="0.5" width="127" height="127" stroke="white"/>
 <defs>
 <clipPath id="clip0_0_3">
-<rect width="128" height="128" fill="white"/>
+<rect width="128" height="128" fill="none"/>
 </clipPath>
 </defs>
 </svg>

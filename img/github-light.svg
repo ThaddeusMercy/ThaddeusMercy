@@ -1,1 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+
+<!-- <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_0_3)">
+<path opacity="0.45" d="M84.466 0L63.887 36.578H22.756L43.321 0H84.466Z" fill="black"/>
+<path opacity="0.6" d="M63.887 36.576H105.032L84.468 0H43.323L63.887 36.576Z" fill="black"/>
+<path opacity="0.8" d="M43.323 73.138L63.888 36.576L43.323 0L22.759 36.576L43.323 73.138Z" fill="black"/>
+<path opacity="0.45" d="M43.521 128L64.1 91.424H105.245L84.666 128H43.521Z" fill="black"/>
+<path opacity="0.6" d="M64.1 91.426H22.955L43.519 128.001H84.664L64.1 91.426Z" fill="black"/>
+<path opacity="0.8" d="M84.666 54.864L64.102 91.426L84.666 128.001L105.245 91.426L84.666 54.864Z" fill="black"/>
+</g>
+<rect x="0.5" y="0.5" width="127" height="127" stroke="white"/>
+<defs>
+<clipPath id="clip0_0_3">
+<rect width="128" height="128" fill="none"/>
+</clipPath>
+</defs>
+</svg> -->
