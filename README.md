@@ -1,6 +1,6 @@
 # Hi there, I'm Mercy Thaddeus 👋 
 
-## I'm a FullStack Developer and Blockchain Developer!! 👩🏻‍💻 
+## I'm a Frontend Developer and Blockchain Developer!! 👩🏻‍💻 
 
 - 🌱 I’m currently learning and building Web3.0 
 - 🖊 I am a Technical writer hoping to write more in 2022
