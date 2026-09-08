@@ -1,12 +1,20 @@
 # Mercy Thaddeus
 
-Software engineer. I build AI-native products end to end.
+**AI Builder · Open-source projects**
 
-### What I do
+I build useful things with AI and share the code so other people can learn, adapt and contribute. My work spans AI tools, agents and interactive learning experiences.
 
-I build full products. Frontend, backend, infra, AI layer. React, Next.js, Expo on the client. Node, Python, Supabase, Postgres on the server. LLM orchestration, agent workflows, RAG pipelines, evals. I ship the whole thing.
+### Building in the open
 
-Most of what I build goes from idea to live product in weeks. I care about product quality, the motion, the micro-interactions, the details that separate good apps from forgettable ones.
+**[Female Anatomy Blast](https://github.com/ThaddeusMercy/female-anatomy-blast)** — an interactive 3D anatomy explorer with system layers, search, isolation and exploded views. Built with AI assistance, open anatomy datasets and clearly labelled teaching schematics. An educational prototype with documented sources and limitations.
+
+I’m making more projects like this: pick a useful idea, build a working version, document what it can and can’t do, and improve it with the community.
+
+### What I work with
+
+AI agents, LLM workflows, RAG and evaluations, interactive 3D, and product development.
+
+`TypeScript` `Python` `React` `Next.js` `Node` `Supabase` `Postgres` `OpenAI` `Anthropic` `LangGraph` `Three.js`
 
 ### Where I work
 
@@ -14,10 +22,8 @@ Co-founder and CPO at [Attention Factory](https://attentionfactory.io). We build
 
 Senior Engineer at HindSight VIP, a blockchain visualization platform.
 
-### Stack
-
-`TypeScript` `Python` `React` `Next.js` `Expo` `Node` `Supabase` `Postgres` `Solidity` `OpenAI` `Anthropic` `LangGraph` `Tailwind` `Framer Motion` `p5.js` `Three.js`
-
 ### Reach me
 
 [mercythaddeus.xyz](https://mercythaddeus.xyz) · [@global_techgirl](https://twitter.com/global_techgirl) · [LinkedIn](https://linkedin.com/in/mercythaddeus)
+
+If you’re an educator, 3D artist or developer interested in improving open learning tools, contributions are welcome.
